@@ -8,7 +8,8 @@ Tags: access, capability, cms, editor, parents, permission, restrictions, role, 
 Requires at least: 4.1
 Tested up to: 4.2
 Stable tag: 4.3
-*/
+
+Plugin hides page content from not logged-in users
 
 == Description ==
 "Restricted Page" plugin was created to prevent unauthorized users from viewing particular pages. The plugin must be placed on the destination page.
