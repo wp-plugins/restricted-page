@@ -1,10 +1,13 @@
-/*
-Plugin Name: Restricted  Page
-Plugin URI: 
+=== Plugin Name ===
 Description: Plugin hides page content from not logged-in users
 Version: 1.0.0
 Author: Leonid N. Malyshev
 Author URI: http://mln.sk
+Contributors: mln141
+Tags: access, capability, cms, editor, parents, permission, restrictions, role, security, user, protection
+Requires at least: 4.1
+Tested up to: 4.2
+Stable tag: 4.3
 */
 
 == Description ==
