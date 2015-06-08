@@ -42,6 +42,6 @@ More info at http://wpplugins.ml/restricted-page-plugin
 	•	You can place shortcodes more than 1 time. WARNING. In this case all "[RP_registered_only]" must be closed bu "[/RP_registered_only]"
 	
 == Screenshots ==
-1. Screen shot of plugin options (menu “Settings”->”Restricted Page Options”)
+1. Screen shot of plugin options (menu “Settings”->”Restricted Page Options”) screenshot-1.jpg
 2. Protected screen - presentation for logged-in users
 3. Protected screen - presentation for not logged-in users
