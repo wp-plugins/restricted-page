@@ -6,7 +6,7 @@ Author URI: http://mln.sk
 Contributors: mln141
 Tags: access, capability, cms, editor, parents, permission, restrictions, role, security, user, protection
 Requires at least: 4.1
-Tested up to: 4.2.3
+Tested up to: 4.3
 Stable tag: trunk
 
 Plugin hides page content from not logged-in users
